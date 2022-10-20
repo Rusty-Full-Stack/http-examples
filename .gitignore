@@ -1,0 +1,6 @@
+http-api-google-translate/target/
+http-api-google-translate/Cargo.lock
+http-get-google/target/
+http-get-google/Cargo.lock
+http-post-translate/target/
+http-post-translate/Cargo.lock
